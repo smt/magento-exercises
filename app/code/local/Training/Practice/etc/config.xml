@@ -5,4 +5,12 @@
             <version>0.1.0</version>
         </Training_Practice>
     </modules>
+
+    <default>
+        <contacts>
+            <email>
+                <recipient_email>student@example.com</recipient_email>
+            </email>
+        </contacts>
+    </default>
 </config>
