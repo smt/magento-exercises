@@ -13,4 +13,13 @@
             </email>
         </contacts>
     </default>
+    <stores>
+        <french>
+            <contacts>
+                <email>
+                    <recipient_email>student2@example.com</recipient_email>
+                </email>
+            </contacts>
+        </french>
+    </stores>
 </config>
